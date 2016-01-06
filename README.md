@@ -1,2 +1,2 @@
 # data_science
-Coursera Data Science Class
+Used for Coursera Data Science Class
